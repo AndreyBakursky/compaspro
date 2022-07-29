@@ -1,3 +1,5 @@
+CompasPro task
+
 1. Запустить в cmd docker-compose up
 2. Делаем миграцию docker-compose exec web python manage.py migrate
 3. Создаем суперпользователя для админки docker-compose exec web python manage.py createsuperuser
